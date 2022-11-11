@@ -1,5 +1,5 @@
 <h1 align="center">Mi nombre es Claudio 🚀</h1>
-<h3 align="center">Claudio Aninir Programador Full-Stack Junior</h3>
+<h3 align="center">Claudio Aniñir Programador Full-Stack Junior</h3>
 <br>
 <img align="right" src= "https://img.itch.zone/aW1nLzUxNzE1NzkucG5n/315x250%23c/BFCDxL.png" alt= "cheems en la pc" height="200"/>
 
