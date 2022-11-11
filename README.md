@@ -32,7 +32,6 @@
 </p>
 
 <h3 align="left">Contacto:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/claudio-aniñir-52839724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Claudio-aninir" height="20"/></a> 
 
 </p>
