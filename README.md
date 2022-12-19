@@ -7,7 +7,7 @@
 
 - 💻 **Aprendí a programar en Instituto Magallanes🏫 y en Youtube**
 
-- 🔥 **Actualmente estoy aprendiendo todo lo que llegue a mis manos**
+- 🔥 **Actualmente trabajando como desarrollador Junior en Helpcom, trabajando con Vue y Laravel**
  
 - 📐  **Profesor de Matemática**
 
