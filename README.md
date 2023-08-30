@@ -4,9 +4,7 @@
 <img align="right" src= "https://pbs.twimg.com/media/E3n6Ws9XMAICrqd.jpg" alt= "cheems en la pc" height="200"/>
 
 
-- 💻 **Aprendí a programar en Instituto Magallanes🏫 y en Youtube**
-
-- 🔥 **Actualmente trabajando como desarrollador Junior en Helpcom, trabajando con Vue y Laravel**
+- 🔥 **Actualmente trabajando como desarrollador en Ntt**
  
 - 📐  **Profesor de Matemática**
 
